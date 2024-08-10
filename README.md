@@ -23,4 +23,4 @@ This project is licensed under the MIT License.
 ## Contact
 Email: drashtibhavsar09@gmail.com
 
-LinkedIn:[Drashti09]#https://www.linkedin.com/in/drashtibhavsar9/
+LinkedIn:https://www.linkedin.com/in/drashtibhavsar9/
