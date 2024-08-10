@@ -14,7 +14,9 @@ This project involves developing a chatbot using the RASA framework. The chatbot
 Set up and configure the RASA environment.
 2. Train the Chatbot:
 Train the model using the provided training data.
-3. Interact with Chatbot:
+3. Vector comparison:
+   For finding Vector Similarity
+4. Interact with Chatbot:
 Test the chatbot and refine responses based on interactions.
 
 ## License
